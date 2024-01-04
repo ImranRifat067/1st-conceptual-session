@@ -3,5 +3,19 @@
 }
 .hero{
     background-color: aqua;
+    background-image: url(../styles/images/cow.jpg.jpg);
+    height:100vh;
+    background-position: bottom center;
+    background-size:cover
+}
+.hero h1{
+    text-align:center;
+    color:aliceblue;
+    font-size:100px;
+    padding-top:60px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 900;
+    word-spacing: 40px;
+    letter-spacing:4px ;
 }
 
